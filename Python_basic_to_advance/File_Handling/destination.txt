@@ -1,0 +1,6 @@
+hello world!
+this is new line .
+Append operation taking placeAppend operation taking place
+first line 
+second line 
+third line 
